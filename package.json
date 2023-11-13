@@ -1,0 +1,17 @@
+{
+  "name": "@celatte/libphonenumber-js-issue",
+  "version": "1.0.0",
+  "author": "Lorenzo Bevilacqua <npm+lorenzo@celatte.com>",
+  
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  
+  "dependencies": {
+    "libphonenumber-js": "~1.10.49"
+  },
+  
+  "devDependencies": {
+    "@types/node": "18.x",
+    "typescript": "~5.2.2"
+  }
+}

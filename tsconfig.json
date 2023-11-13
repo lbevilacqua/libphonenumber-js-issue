@@ -1,0 +1,23 @@
+{
+  "compileOnSave": false,
+
+  "compilerOptions": {
+    "outDir": "./lib",
+
+    "module": "node16",
+    "moduleResolution": "node16",
+    "target": "es2022",
+
+    "declaration": true,
+    "declarationMap": true,
+
+    "sourceMap": true,
+
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+
+  "include": [
+    "./src/**/*"
+  ]
+}
